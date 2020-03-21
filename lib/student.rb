@@ -1,5 +1,5 @@
 class Student < User
-def first_name(f_name)
-  @f_name = f_name
+def first_name(first_name)
+  @first_name = first_name
 end
 end
